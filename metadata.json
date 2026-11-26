@@ -1,0 +1,6 @@
+{
+  "name": "TERMU — Ternak Terintegrasi & Modern",
+  "description": "Super App ekosistem peternakan sapi potong dan kambing/domba di Indonesia yang menggabungkan Manajemen Kandang, Paspor QR, Asisten AI, dan Pasar Ternak TERMU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
